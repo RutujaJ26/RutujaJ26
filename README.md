@@ -9,4 +9,5 @@ I'm a dedicated and innovative computer engineering student passionate about lev
 Skills: Java | C++ | Python | JavaScript | MySQL | HTML | CSS | Bootstrap | GitHub | UI | Data Analysis | WordPress | Cloud Computing | Data Structures and Algorithms | Figma
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RutujaJ26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rutuja-jadhav0//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(1);'>](https://github.com/RutujaJ26)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(1);'>](https://www.linkedin.com/in/rutuja-jadhav)
